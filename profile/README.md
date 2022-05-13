@@ -4,7 +4,7 @@ Demonstration on using different parts of the OpenAPI:
 - [Code samples in Javascript](https://github.com/SaxoBank/openapi-samples-js).
 
 Other languages:
-- [Websockets in Python](https://github.com/SaxoBank/openapi-samples-python);
+- [Authentication and websockets in Python](https://github.com/SaxoBank/openapi-samples-python);
 - [Authentication and websockets in C#](https://github.com/SaxoBank/openapi-samples-csharp).
 
 The JavaScript repo is also published on [Github Pages](https://saxobank.github.io/openapi-samples-js/).
