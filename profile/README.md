@@ -8,6 +8,7 @@ Other languages:
 
 - [Authentication and websockets in Python](https://github.com/SaxoBank/openapi-samples-python);
 - [Authentication and websockets in C#](https://github.com/SaxoBank/openapi-samples-csharp).
+- [Authentication in PHP](https://github.com/SaxoBank/openapi-samples-php).
 
 The JavaScript repo is also published on [Github Pages](https://saxobank.github.io/openapi-samples-js/).
 
