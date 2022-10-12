@@ -6,7 +6,6 @@ Demonstration on using different parts of the OpenAPI:
 
 Other languages:
 
-- [Authentication and websockets in Python](https://github.com/SaxoBank/openapi-samples-python);
 - [Authentication and websockets in C#](https://github.com/SaxoBank/openapi-samples-csharp);
 - [Authentication in PHP](https://github.com/SaxoBank/openapi-samples-php).
 
